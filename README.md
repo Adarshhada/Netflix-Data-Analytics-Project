@@ -31,7 +31,7 @@ The dataset is taken from **Kaggle**:
 ![Movie Duration Histogram](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Distribution%20of%20Movie%20Duration.png?raw=true)
 
 ### 4️⃣ Release Trend Over Years
-![Release Trend](plots/release_trend.png)
+![Release Trend](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Release%20Year%20VS%20Number%20of%20Shows.png?raw=true)
 
 ### 5️⃣ Top 10 Countries by Number of Shows
 ![Top Countries](plots/top_countries.png)
