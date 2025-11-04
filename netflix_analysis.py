@@ -2,7 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the Data
-df = pd.read_csv(r'C:\Users\aadar\Downloads\netflix_titles.csv\netflix_titles.csv')
+df = pd.read_csv(r'C:\Users\aadar\Downloads\netflix_titles.csv.zip')
+
 
 # Clean Data
 df = df.dropna(subset=['type','release_year','rating','country','duration'])
