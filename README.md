@@ -50,4 +50,4 @@ The dataset is taken from **Kaggle**:
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/Netflix-Data-Analysis.git
+   git clone https://github.com/Adarshhada/Netflix-Data-Analytics-Project.git
