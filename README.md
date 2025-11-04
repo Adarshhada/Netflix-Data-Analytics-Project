@@ -22,7 +22,7 @@ The dataset is taken from **Kaggle**:
 ## 📊 Visualizations
 
 ### 1️⃣ Movies vs TV Shows
-![Movies vs TV Shows](plots/movies_vs_shows.png)
+![Movies vs TV Shows]https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Number%20of%20Movies%20VS%20Shows%20on%20Netflix.png?raw=true
 
 ### 2️⃣ Ratings Distribution
 ![Ratings Pie Chart](plots/ratings_pie.png)
