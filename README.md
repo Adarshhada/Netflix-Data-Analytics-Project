@@ -22,10 +22,10 @@ The dataset is taken from **Kaggle**:
 ## 📊 Visualizations
 
 ### 1️⃣ Movies vs TV Shows
-![Movies vs TV Shows]https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Number%20of%20Movies%20VS%20Shows%20on%20Netflix.png?raw=true
+![Movies vs TV Shows](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Number%20of%20Movies%20VS%20Shows%20on%20Netflix.png?raw=true)
 
 ### 2️⃣ Ratings Distribution
-![Ratings Pie Chart](plots/ratings_pie.png)
+![Ratings Pie Chart](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Percentage%20of%20Content%20Rating.png?raw=true)
 
 ### 3️⃣ Movie Duration Distribution
 ![Movie Duration Histogram](plots/movie_duration_hist.png)
