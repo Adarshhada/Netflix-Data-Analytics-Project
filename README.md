@@ -82,3 +82,7 @@ And There Also provide Link The Graph plot
 1. Clone the repository  
    ```bash
    git clone https://github.com/Adarshhada/Netflix-Data-Analytics-Project.git
+
+
+👨‍💻 Author: Aadarsh Hada
+📧 Feel free to connect on GitHub
