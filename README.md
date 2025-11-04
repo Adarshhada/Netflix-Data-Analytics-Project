@@ -34,7 +34,10 @@ The dataset is taken from **Kaggle**:
 ![Release Trend](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Release%20Year%20VS%20Number%20of%20Shows.png?raw=true)
 
 ### 5️⃣ Top 10 Countries by Number of Shows
-![Top Countries](plots/top_countries.png)
+![Top Countries](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Top%2010%20Country%20by%20Number%20of%20Shows.png?raw=true)
+
+### 6. Comparision Movies vs Tv Shows
+
 
 ---
 
