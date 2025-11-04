@@ -8,6 +8,10 @@ This project explores and visualizes Netflix's dataset using **Python**, **Panda
 The dataset is taken from **Kaggle**:  
 [`netflix_titles.csv`](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
+## Code Using in the Projec
+The code is
+['Netflix_analysis.py'](
+
 ---
 
 ## 🧠 Objective
