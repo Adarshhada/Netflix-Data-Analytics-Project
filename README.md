@@ -41,6 +41,8 @@ The dataset is taken from **Kaggle**:
 ![Movies vs Shows](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Comparision%20of%20Movies%20and%20TV%20Shows%20Released%20Over%20Years.png?raw=true).
 
 And There Also provide Link The Graph plot
+
+
 ### 1️⃣ Movies vs TV Shows
 ![Movies vs TV Shows]https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Number%20of%20Movies%20VS%20Shows%20on%20Netflix.png?raw=true
 
@@ -57,7 +59,8 @@ And There Also provide Link The Graph plot
 ![Top Countries]https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Top%2010%20Country%20by%20Number%20of%20Shows.png?raw=true
 
 ### 6. Comparision Movies vs Tv Shows
-![Movies vs Shows](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Comparision%20of%
+![Movies vs Shows]https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Comparision%20of%20Movies%20and%20TV%20Shows%20Released%20Over%20Years.png?raw=true
+
 
 ---
 
