@@ -10,7 +10,7 @@ The dataset is taken from **Kaggle**:
 
 ## Code Using in the Projec
 ## 🧾 Code File
-👉 [Click here to view the full Python code](https://github.com/your-username/Netflix-Data-Analysis/blob/main/netflix_analysis.py)
+👉 [Click here to view the full Python code](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/netflix_analysis.py)
 
 
 ---
