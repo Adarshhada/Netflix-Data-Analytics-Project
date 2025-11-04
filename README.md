@@ -28,7 +28,7 @@ The dataset is taken from **Kaggle**:
 ![Ratings Pie Chart](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Percentage%20of%20Content%20Rating.png?raw=true)
 
 ### 3️⃣ Movie Duration Distribution
-![Movie Duration Histogram](plots/movie_duration_hist.png)
+![Movie Duration Histogram](https://github.com/Adarshhada/Netflix-Data-Analytics-Project/blob/main/Distribution%20of%20Movie%20Duration.png?raw=true)
 
 ### 4️⃣ Release Trend Over Years
 ![Release Trend](plots/release_trend.png)
