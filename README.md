@@ -9,8 +9,9 @@ The dataset is taken from **Kaggle**:
 [`netflix_titles.csv`](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Code Using in the Projec
-The code is
-['Netflix_analysis.py'](
+## 🧾 Code File
+👉 [Click here to view the full Python code](https://github.com/your-username/Netflix-Data-Analysis/blob/main/netflix_analysis.py)
+
 
 ---
 
